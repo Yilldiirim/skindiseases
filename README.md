@@ -24,11 +24,8 @@ Performance evaluated with accuracy, precision, recall, and F1-score
 🌐 Web Application
 We built a user-friendly Flask-based web interface where users can upload skin images and receive instant disease predictions powered by the trained model.
 
-📄 Paper
-You can read the full research paper here:
-📎 docs/paper.pdf
  
- Notes
+📄 Notes
 This project demonstrates the potential of deep learning methods in dermatological diagnosis and provides a foundation for clinical integration.
 
 
